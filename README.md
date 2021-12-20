@@ -1,4 +1,3 @@
 - 👋 Hi, I’m DarkVikinglaw
-- 📫 How to reach me? My Discord server https://discord.gg/3vBvCTgsE3
 - 🔨 I am good developer and I love my work (:
 - 🤖 If you want discord bot just tell me
