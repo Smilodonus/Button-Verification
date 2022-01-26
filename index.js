@@ -27,7 +27,7 @@ client.on('ready', () => {
 client.on('message', async (message) => {
     if (message.content.startsWith('verify')) {
         const embed = new MessageEmbed()
-            .setTitle('Penguin Club | NTF - Verification')
+            .setTitle('<Server Name>')
             .setColor("GREEN")
             .setDescription(`Click on the reaction to see the server rooms. `)
 
