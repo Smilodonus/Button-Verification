@@ -1,3 +1,3 @@
-- 👋 Hi, I’m DarkVikinglaw
+- 👋 Hi, I’m aresko
 - 🔨 I am good developer and I love my work (:
 - 🤖 If you want discord bot just tell me
