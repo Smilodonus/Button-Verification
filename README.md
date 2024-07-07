@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Smilodonus
 - 🔨 I am good developer and I love my work (:
-- 🤖 If you want discord bot just tell me
+- 🤖 If you want a discord bot just DM me in discord.
