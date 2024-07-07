@@ -1,3 +1,3 @@
-- 👋 Hi, I’m aresko
+- 👋 Hi, I’m Smilodonus
 - 🔨 I am good developer and I love my work (:
 - 🤖 If you want discord bot just tell me
